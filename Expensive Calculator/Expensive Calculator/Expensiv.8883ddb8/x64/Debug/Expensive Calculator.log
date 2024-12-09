@@ -1,0 +1,4 @@
+﻿  Expensive Calculator.cpp
+D:\AluCiclesGS1\PPC\Programes\Expensive Calculator\Expensive Calculator\Expensive Calculator.cpp(19,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\AluCiclesGS1\PPC\Programes\Expensive Calculator\Expensive Calculator\Expensive Calculator.cpp(20,12): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Expensive Calculator.vcxproj -> D:\AluCiclesGS1\PPC\Programes\Expensive Calculator\Expensive Calculator\x64\Debug\Expensive Calculator.exe

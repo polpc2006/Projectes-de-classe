@@ -1,0 +1,59 @@
+#include "fuPol.h"
+
+bool numprimer(int numeroprimer)
+{
+	int residu = numeroprimer % 2;
+	if (numeroprimer == 1) {
+		return true;
+	}
+	else if (numeroprimer == 2) {
+		return true;
+	}
+	else if (residu == 0) {
+		return false;
+	}
+	else {
+		double calcul;
+		calcul = sqrt(numeroprimer);
+		for (int i = 3; i <= calcul; i += 2) {
+			if (numeroprimer % i == 0) {
+				return false;
+			}
+		}
+	}
+	return true;
+}
+
+int numerofactorial(int numerous)
+{
+	int numeroresultat = 1;
+	for (int i = 1; i <= numerous; i++) {
+		numeroresultat *= i;
+	}
+	return numeroresultat;
+}
+
+
+void exercici1() {
+	int numerous;
+
+	cout << "Escull un numero per fer el seu factorial\n";
+	cin >> numerous;
+	cout << "El teu numero es " << numerous << " i el numero factorial es " << numerofactorial(numerous)<<endl;
+}
+
+void exercici2() {
+	int numeroprimer;
+
+	cout << "\nEscull un numero per saber si es primer\n";
+
+	cout << "Escull un numero\n";
+	cin >> numeroprimer;
+	bool resultat = numprimer(numeroprimer);
+	if (resultat) {
+		cout << "El numero " << numeroprimer << " es primer";
+	}
+	else {
+		cout << "El numero " << numeroprimer << " no es primer";
+	}
+}

@@ -1,0 +1,4 @@
+﻿  Telling the history.cpp
+D:\AluCiclesGS1\PPC\Programes\Telling the history\Telling the history\Telling the history.cpp(5,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\AluCiclesGS1\PPC\Programes\Telling the history\Telling the history\Telling the history.cpp(7,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Telling the history.vcxproj -> D:\AluCiclesGS1\PPC\Programes\Telling the history\x64\Debug\Telling the history.exe

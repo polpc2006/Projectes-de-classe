@@ -1,0 +1,4 @@
+﻿  Guess the number.cpp
+D:\AluCiclesGS1\PPC\Programes\Guess the number\Guess the number\Guess the number.cpp(4,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\AluCiclesGS1\PPC\Programes\Guess the number\Guess the number\Guess the number.cpp(5,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Guess the number.vcxproj -> D:\AluCiclesGS1\PPC\Programes\Guess the number\Guess the number\x64\Debug\Guess the number.exe

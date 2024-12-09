@@ -1,0 +1,7 @@
+﻿  Programa variable.cpp
+D:\AluCiclesGS1\PPC\Programes\Programa variable\Programa variable\Programa variable.cpp(34,1): error C4700: se utilizó la variable local 'v1' sin inicializar
+D:\AluCiclesGS1\PPC\Programes\Programa variable\Programa variable\Programa variable.cpp(35,1): error C4700: se utilizó la variable local 'v2' sin inicializar
+D:\AluCiclesGS1\PPC\Programes\Programa variable\Programa variable\Programa variable.cpp(36,1): error C4700: se utilizó la variable local 'v3' sin inicializar
+D:\AluCiclesGS1\PPC\Programes\Programa variable\Programa variable\Programa variable.cpp(37,1): error C4700: se utilizó la variable local 'v4' sin inicializar
+D:\AluCiclesGS1\PPC\Programes\Programa variable\Programa variable\Programa variable.cpp(38,1): error C4700: se utilizó la variable local 'v5' sin inicializar
+D:\AluCiclesGS1\PPC\Programes\Programa variable\Programa variable\Programa variable.cpp(39,1): error C4700: se utilizó la variable local 'v6' sin inicializar

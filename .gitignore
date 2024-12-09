@@ -1,0 +1,5 @@
+*.docx
+*.drawio
+*.pdf
+*.vsdx
+.vs/

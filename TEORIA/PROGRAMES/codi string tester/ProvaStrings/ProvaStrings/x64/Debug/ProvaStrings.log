@@ -1,0 +1,4 @@
+﻿  ProvaStrings.cpp
+D:\AluCiclesGS1\PPC\Programes\ProvaStrings\ProvaStrings\ProvaStrings.cpp(21,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+D:\AluCiclesGS1\PPC\Programes\ProvaStrings\ProvaStrings\ProvaStrings.cpp(61,23): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ProvaStrings.vcxproj -> D:\AluCiclesGS1\PPC\Programes\ProvaStrings\x64\Debug\ProvaStrings.exe
