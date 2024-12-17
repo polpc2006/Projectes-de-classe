@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FuncNim.cpp" />
     <ClCompile Include="Game of Nim.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FuncNim.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
