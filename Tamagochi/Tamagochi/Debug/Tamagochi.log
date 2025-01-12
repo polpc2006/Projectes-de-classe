@@ -1,0 +1,5 @@
+﻿  Pet.cpp
+D:\APLICACIONS\PROGRAMMES\Tamagochi\Pet.cpp(65,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\APLICACIONS\PROGRAMMES\Tamagochi\Pet.cpp(438,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\APLICACIONS\PROGRAMMES\Tamagochi\Pet.cpp(447,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Tamagochi.vcxproj -> D:\APLICACIONS\PROGRAMMES\Tamagochi\Debug\Tamagochi.exe
