@@ -1,0 +1,7 @@
+﻿  Pet.cpp
+G:\TAMAGOCHI\Tamagochi2.0\Pet.cpp(154,26): warning C4018: '<': no coinciden signed/unsigned
+G:\TAMAGOCHI\Tamagochi2.0\Pet.cpp(83,7): warning C4101: 'hours': variable local sin referencia
+G:\TAMAGOCHI\Tamagochi2.0\Pet.cpp(267,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+G:\TAMAGOCHI\Tamagochi2.0\Pet.cpp(643,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+G:\TAMAGOCHI\Tamagochi2.0\Pet.cpp(672,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Tamagochi.vcxproj -> G:\TAMAGOCHI\Tamagochi2.0\Debug\Tamagochi.exe

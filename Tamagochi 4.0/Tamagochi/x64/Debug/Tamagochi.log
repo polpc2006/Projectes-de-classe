@@ -1,0 +1,46 @@
+﻿  Pet.cpp
+G:\TAMAGOCHI\Tamagochi2.0\Pet.cpp(4,10): error C1083: No se puede abrir el archivo incluir: 'SFML/Audio.hpp': No such file or directory
+  Tamagochi.cpp
+G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(50,22): error C2660: 'Pet::Play': la función no acepta 0 argumentos
+      G:\TAMAGOCHI\Tamagochi2.0\Pet.h(14,7):
+      vea la declaración de 'Pet::Play'
+      G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(50,22):
+      al hacer coincidir la lista de argumentos '()'
+  
+G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(53,22): error C2660: 'Pet::Eat': la función no acepta 0 argumentos
+      G:\TAMAGOCHI\Tamagochi2.0\Pet.h(23,7):
+      vea la declaración de 'Pet::Eat'
+      G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(53,22):
+      al hacer coincidir la lista de argumentos '()'
+  
+G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(56,22): error C2660: 'Pet::Drink': la función no acepta 0 argumentos
+      G:\TAMAGOCHI\Tamagochi2.0\Pet.h(22,7):
+      vea la declaración de 'Pet::Drink'
+      G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(56,22):
+      al hacer coincidir la lista de argumentos '()'
+  
+G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(59,22): error C2660: 'Pet::Talk': la función no acepta 0 argumentos
+      G:\TAMAGOCHI\Tamagochi2.0\Pet.h(21,7):
+      vea la declaración de 'Pet::Talk'
+      G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(59,22):
+      al hacer coincidir la lista de argumentos '()'
+  
+G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(62,22): error C2660: 'Pet::takeShower': la función no acepta 0 argumentos
+      G:\TAMAGOCHI\Tamagochi2.0\Pet.h(25,7):
+      vea la declaración de 'Pet::takeShower'
+      G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(62,22):
+      al hacer coincidir la lista de argumentos '()'
+  
+G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(65,22): error C2660: 'Pet::Sleep': la función no acepta 0 argumentos
+      G:\TAMAGOCHI\Tamagochi2.0\Pet.h(24,7):
+      vea la declaración de 'Pet::Sleep'
+      G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(65,22):
+      al hacer coincidir la lista de argumentos '()'
+  
+G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(71,22): error C2660: 'Pet::ListenMusic': la función no acepta 0 argumentos
+      G:\TAMAGOCHI\Tamagochi2.0\Pet.h(27,7):
+      vea la declaración de 'Pet::ListenMusic'
+      G:\TAMAGOCHI\Tamagochi2.0\Tamagochi.cpp(71,22):
+      al hacer coincidir la lista de argumentos '()'
+  
+  Generando código...
