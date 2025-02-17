@@ -1,0 +1,17 @@
+﻿  Engine.cpp
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,50): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,50): warning C4244:         with
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,50): warning C4244:         [
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,50): warning C4244:             T=float
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,50): warning C4244:         ]
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,38): warning C4244: 'argumento': conversión de 'T' a 'unsigned int'; posible pérdida de datos
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,38): warning C4244:         with
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,38): warning C4244:         [
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,38): warning C4244:             T=float
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(10,38): warning C4244:         ]
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(160,20): warning C4018: '<': no coinciden signed/unsigned
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(172,20): warning C4018: '<': no coinciden signed/unsigned
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(191,20): warning C4018: '<': no coinciden signed/unsigned
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(196,21): warning C4018: '<': no coinciden signed/unsigned
+J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Engine.cpp(212,21): warning C4018: '<': no coinciden signed/unsigned
+  Motor videojocs.vcxproj -> J:\ENGINE MOTOR\Engine Motor\Motor_videojocs\Debug\Motor videojocs.exe
